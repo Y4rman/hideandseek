@@ -8,6 +8,7 @@ namespace hideandseek
 {
     internal class seeker
     {
-
+        private int hp = 100
+        private int damage = 20
     }
 }
