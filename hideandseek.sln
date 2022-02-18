@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hideandseek", "hideandseek\hideandseek.csproj", "{7ECFB55C-7565-458E-8157-D9E6826E830D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ECFB55C-7565-458E-8157-D9E6826E830D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECFB55C-7565-458E-8157-D9E6826E830D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECFB55C-7565-458E-8157-D9E6826E830D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECFB55C-7565-458E-8157-D9E6826E830D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F01D2443-0106-4B7B-B036-2BCED80CAFCB}
+	EndGlobalSection
+EndGlobal
