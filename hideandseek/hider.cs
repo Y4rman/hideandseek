@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace hideandseek
 {
     internal class hider
-    { 
-        private int damage = 1
-        private int health = 10
-        private int speed = 1
+    {
+        private int damage = 0;
+        private int health = 100;
+        private int speed = 100;
     }
 }

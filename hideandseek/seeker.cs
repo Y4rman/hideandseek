@@ -8,6 +8,6 @@ namespace hideandseek
 {
     internal class seeker
     {
-
+        "sdfsdf"
     }
 }
