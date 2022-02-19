@@ -10,5 +10,16 @@ namespace hideandseek
     {
         private int hp = 100;
         private int damage = 20;
+        private int speed = 100;
+
+        public void SeekMiss(int dmg)
+        {
+            hp -= dmg;
+        }
+        
+        public int GetDamage()
+        {
+            return damage;
+        }
     }
 }
